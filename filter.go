@@ -1,0 +1,29 @@
+package main
+
+func getDesiredCities() []string {
+	return []string{
+		"AMERICANA",
+		"ARACATUBA",
+		"BAURU",
+		"BIRIGUI",
+		"CAMPINAS",
+		"CAMPOS DO JORDAO",
+		"CARAGUATATUBA",
+		"GUARARAPES",
+		"GUARUJA",
+		"HORTOLANDIA",
+		"INDAIATUBA",
+		"JACAREI",
+		"JAGUARIUNA",
+		"PARAIBUNA",
+		"PAULINIA",
+		"PIRACICABA",
+		"PRESIDENTE PRUDENTE",
+		"SAO CARLOS",
+		"SAO JOSE DO RIO PRETO",
+		"SAO JOSE DOS CAMPOS",
+		"TREMEMBE",
+		"UBATUBA",
+		"VALINHOS",
+	}
+}
